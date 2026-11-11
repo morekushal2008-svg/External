@@ -14,9 +14,10 @@ class Student{
     int rollno;
     double marks;
 
-    Student(string name,int rollno,double marks){
+    Student(string name,int rollno,double marks){ // for same use this keyword
+        
        this-> name = name;
-       this-> rollno = rollno;
+       this-> rollno = rollno; 
       this->  marks = marks;
 
 
