@@ -14,8 +14,9 @@ class Student{
     int rollno;
     double marks;
 
-    Student(string name,int rollno,double marks){ // for same use this keyword
+    Student(string name,int rollno,double marks){ // for same use this keyword to state that this is object property
         
+
        this-> name = name;
        this-> rollno = rollno; 
       this->  marks = marks;
