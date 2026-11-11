@@ -34,4 +34,5 @@ int main(){
     cout<<t1.dept<<endl;
     cout<<t1.subject<<endl;
     
+    return 0;
 }
